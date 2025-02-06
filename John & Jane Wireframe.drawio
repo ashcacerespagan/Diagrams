@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="Wvfmtu-aDcWZq3p-b0Sc">
-    <mxGraphModel dx="1194" dy="1127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           <mxGeometry x="-8.5" y="445" width="255.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnEO22BBWSqN6tGJC1Rd-70" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;labelBackgroundColor=none;fontColor=default;whiteSpace=wrap;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="589" y="616" width="925" height="614" as="geometry" />
+          <mxGeometry x="589" y="556" width="925" height="614" as="geometry" />
         </mxCell>
         <mxCell id="WnEO22BBWSqN6tGJC1Rd-71" value="&amp;nbsp;BB Reservatio" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="WnEO22BBWSqN6tGJC1Rd-70" vertex="1">
           <mxGeometry x="60" y="12" width="145" height="26" as="geometry" />
@@ -380,6 +380,9 @@
         <mxCell id="WnEO22BBWSqN6tGJC1Rd-162" value="Extend&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;fillColor=#F2CC8F;" parent="WnEO22BBWSqN6tGJC1Rd-86" vertex="1">
           <mxGeometry x="250" y="287" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3YG5myID2JwF1rUi4VXa-150" value="Cleaning Services" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="WnEO22BBWSqN6tGJC1Rd-86">
+          <mxGeometry x="69" y="364" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="WnEO22BBWSqN6tGJC1Rd-157" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=97.75;fillColor2=#99ddff;strokeColor2=none;direction=north;fontColor=#393C56;fillColor=#F2CC8F;" parent="WnEO22BBWSqN6tGJC1Rd-70" vertex="1">
           <mxGeometry x="903" y="112" width="20" height="500" as="geometry" />
         </mxCell>
@@ -396,7 +399,7 @@
           <mxGeometry x="696" y="128" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3YG5myID2JwF1rUi4VXa-7" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;labelBackgroundColor=none;fontColor=default;whiteSpace=wrap;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="587" y="1385" width="925" height="614" as="geometry" />
+          <mxGeometry x="589" y="1208" width="925" height="614" as="geometry" />
         </mxCell>
         <mxCell id="3YG5myID2JwF1rUi4VXa-8" value="&amp;nbsp;BB Reservatio" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-7">
           <mxGeometry x="60" y="12" width="145" height="26" as="geometry" />
@@ -462,7 +465,7 @@
           <mxGeometry x="903" y="112" width="20" height="500" as="geometry" />
         </mxCell>
         <mxCell id="3YG5myID2JwF1rUi4VXa-125" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;labelBackgroundColor=none;fontColor=default;whiteSpace=wrap;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="2087" width="925" height="614" as="geometry" />
+          <mxGeometry x="589" y="1859" width="925" height="614" as="geometry" />
         </mxCell>
         <mxCell id="3YG5myID2JwF1rUi4VXa-126" value="&amp;nbsp;BB Reservatio" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-125">
           <mxGeometry x="60" y="12" width="145" height="26" as="geometry" />
