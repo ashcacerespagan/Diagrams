@@ -485,7 +485,7 @@
         <mxCell id="3YG5myID2JwF1rUi4VXa-147" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-128">
           <mxGeometry x="31" y="96" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3YG5myID2JwF1rUi4VXa-148" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-128">
+        <mxCell id="3YG5myID2JwF1rUi4VXa-148" value="&lt;i&gt;Ex.: Dietary accommodations&lt;/i&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-128">
           <mxGeometry x="63" y="139" width="717" height="200" as="geometry" />
         </mxCell>
         <mxCell id="3YG5myID2JwF1rUi4VXa-149" value="Comments/Accommodations:" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="3YG5myID2JwF1rUi4VXa-148">
